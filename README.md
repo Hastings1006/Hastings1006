@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amy Hastings</h1>
-<h3 align="center">A junior full-stack developer from the UK</h3>
+<h3 align="center">A junior full-stack web developer from the UK</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hastings1006" alt="hastings1006" /></a> </p>
 
 - 🔭 I’m currently working on **Kenilworth WI website**
 
-- 🌱 I’m currently learning **Continuing to improve Ruby, JS and CSS skills, following completion of a web development bootcamp with Le Wagon.**
+- 🌱 I’m currently learning **Python, Ruby, JS and CSS, following completion of a web development bootcamp with Le Wagon.**
 
 - 📫 How to reach me **amyh364@outlook.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amy-hastings-b7990630a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amy-hastings-b7990630a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amyhastings1006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amyhastings1066" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
