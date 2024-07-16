@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hastings1006" alt="hastings1006" /></a> </p>
 
-- 🔭 I’m currently working on **Kenilworth WI website**
+- 🔭 I’m currently working on **Budgeting App** and **Kenilworth WI website**
 
 - 🌱 I’m currently learning **Python, Ruby, JS and CSS, following completion of a web development bootcamp with Le Wagon.**
 
